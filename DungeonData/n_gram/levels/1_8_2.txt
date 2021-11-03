@@ -1,0 +1,11 @@
+XXXXXXXX-----XX
+XXXXXXX------&#
+-XXXXX-------XX
+-XXXX--------XX
+-XXX---------X-
+-------------X-
+-XXX---------X-
+-XXXX-----&--X-
+#XXXXX-------X-
+XXXXXXX--------
+XXXXXXXX-----X-

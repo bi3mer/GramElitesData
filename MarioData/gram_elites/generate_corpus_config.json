@@ -1,0 +1,18 @@
+{
+  "data_file": "MarioData/gram_elites/config_map_elites_generate_corpus_data.csv",
+  "x_label": "Linearity",
+  "y_label": "Leniency",
+  "save_file": "MarioData/gram_elites/map_elites.pdf",
+  "title": "",
+  "resolution": 40,
+  "feature_dimensions": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "data_file": "DungeonData/n_gram/config_map_elites_generate_corpus_data.csv",
+  "x_label": "Density",
+  "y_label": "Leniency",
+  "save_file": "DungeonData/n_gram/map_elites.pdf",
+  "title": "",
+  "resolution": 20,
+  "feature_dimensions": [
+    [
+      0,
+      1.0
+    ],
+    [
+      0,
+      0.5
+    ]
+  ]
+}
