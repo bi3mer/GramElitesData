@@ -7,8 +7,8 @@
 ----------------------XXX
 ---------------------XXXX
 --------------------XXXXX
--------<>----------XXXXXX
--------[]---------XXXXXXX
--------[]--------XXXXXXXX
--------[]--EE---XXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXX
+--------------------XXXXX
+------------------XXXXXXX
+-----------------XXXXXXXX
+--------------------XXXXX
+--XXXXXXXXXXXXXXXXXXXXXXX

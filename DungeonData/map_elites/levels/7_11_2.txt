@@ -1,0 +1,11 @@
+^XXXXX^XXXXXXXX
+-XXXXXXXXX--XXX
+-XX--XXXXX--XXX
+XXX--XXXXX--XXX
+XXX--X---------
+#--------------
+XXX--X--------*
+XXX--X-XXX--XXX
+-XX*#X-XXX--XXX
+-XXXXX-XXX*#XXX
+^XXXXX^XXXXXXXX
