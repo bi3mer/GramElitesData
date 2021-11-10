@@ -1,0 +1,16 @@
+-M-M#--M-#---#--M-M---M#-
+-M-MM--M-M---M--M-M---MM-
+-M-MM--M-M---M--MHM---MM-
+-#-MM--M-M---M--M-M---MM-
+-M-MM--M-M---M--M-MHH-MM-
+-M-MM--M-M---M--M-M---MM-
+-M-MMH-M-MH--MH-M-M---MMH
+-M-MM--M-M---M--M-M---MM-
+-M-MM--M-M---M--M-M---MM-
+HM-MM--M-M---M--M-M---MM-
+HM-MM--M-M---M--M-M---MM-
+HM-MM--M-M---M--MHM---MM-
+#M-MMH-M-MH--MH-M-M---MMH
+-M-MM--M-M---M--M-MHH-MM-
+-M-MM--M-M---M--M-M---MM-
+-M-MM--M-M---M--M-M---MM-
