@@ -3,9 +3,9 @@
 ----XXXXXXXXXXX
 ----XXXXXXXXXXX
 ---------*---*-
-------#--------
-----------#---#
-#---XXXXXXXXXXX
+#--------------
+------#---#---#
+----XXXXXXXXXXX
 ----XXXXXXXXXXX
 ----XXXXXXXXXXX
 ----XXXXXXXXXXX

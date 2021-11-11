@@ -4,8 +4,8 @@
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
----XXX---------
----------------
-------XXXXXXXXX
 ---XXXXXXXXXXXX
+-----XXXX----XX
+-------------XX
+---XX----XX----
 ---XXXXXXXXXXXX

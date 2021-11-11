@@ -2,10 +2,10 @@
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
----------------
--------XXXXXX--
--------XXXXXX--
-#--XXXXXXXXXXXX
 ---XXXXXXXXXXXX
+#--XXXXXXXXX---
+------XXXX-----
+------------XXX
+---XXX----XXXXX
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
