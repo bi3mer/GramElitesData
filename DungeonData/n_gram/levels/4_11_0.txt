@@ -6,6 +6,6 @@ XX--XXX--XXX---
 XXXXXXXXXXXXXX-
 XXXXXXXXXXXXXX-
 XXXXXXXXXXXXXX-
-*XXXXXXXXX*XXX-
+*XXXX*XXXXXXXX-
 ---------------
-#----&----#----
+#----#----&----

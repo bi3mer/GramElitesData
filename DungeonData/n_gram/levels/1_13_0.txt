@@ -2,8 +2,8 @@
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX
-----#XXXXXX----
------XXXXX-----
+----#XXXXX-----
+-----XXXX------
 ------*--------
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX

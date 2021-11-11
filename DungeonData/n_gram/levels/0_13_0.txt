@@ -5,7 +5,7 @@
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
 ---XXXXXXXXXXXX
----XXX---XXXXX-
+-------------XX
 ---------------
-------XXX-----X
+---XXXXXXXXXX--
 ---XXXXXXXXXXXX
