@@ -1,8 +1,8 @@
 {
-  "data_file": "IcrauData/n_gram/config_map_elites_generate_corpus_data.csv",
+  "data_file": "IcarusData/n_gram/config_map_elites_generate_corpus_data.csv",
   "x_label": "Density",
   "y_label": "Leniency",
-  "save_file": "IcrauData/n_gram/map_elites.pdf",
+  "save_file": "IcarusData/n_gram/map_elites.pdf",
   "title": "",
   "resolution": 40,
   "feature_dimensions": [
