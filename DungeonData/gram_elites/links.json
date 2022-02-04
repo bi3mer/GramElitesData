@@ -636,8 +636,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -795,8 +794,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -7186,8 +7184,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -7206,8 +7207,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -7216,8 +7220,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -7226,8 +7233,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,0,0": {
@@ -7236,8 +7245,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,0,1": {
@@ -7246,8 +7258,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,0,2": {
@@ -7256,8 +7271,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "10,1,0": {
@@ -7266,8 +7283,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,1,1": {
@@ -7276,8 +7296,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,0": {
@@ -7286,8 +7309,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,1": {
@@ -7296,8 +7322,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -7306,8 +7335,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -7318,8 +7349,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -7338,8 +7372,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -7348,8 +7385,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -7358,8 +7398,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,0,0": {
@@ -7368,8 +7410,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,0,1": {
@@ -7378,8 +7423,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,0,2": {
@@ -7388,8 +7436,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "10,1,0": {
@@ -7398,8 +7448,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,1,1": {
@@ -7408,8 +7461,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,0": {
@@ -7418,8 +7474,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,1": {
@@ -7428,8 +7487,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -7438,8 +7500,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -12043,8 +12107,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -12082,8 +12145,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -12095,8 +12157,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -12108,8 +12169,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -12121,8 +12181,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -12162,8 +12221,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   }
@@ -13049,8 +13107,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "6,5,1": {
@@ -13059,8 +13121,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "6,6,0": {
@@ -13069,8 +13135,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "6,6,1": {
@@ -13079,8 +13149,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "6,6,2": {
@@ -13089,8 +13163,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "6,4,0": {
@@ -13099,8 +13175,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "6,4,1": {
@@ -13109,8 +13188,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,5,0": {
@@ -13119,8 +13201,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "7,5,1": {
@@ -13129,8 +13215,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "7,5,2": {
@@ -13139,8 +13229,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "5,5,0": {
@@ -13149,8 +13241,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "5,5,1": {
@@ -13159,8 +13254,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   }
  },
@@ -14835,8 +14933,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "-----&-----",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "3,3,1": {
@@ -14845,8 +14948,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "-----&-----",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "3,3,2": {
@@ -14867,8 +14975,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "---------&-",
+     "---------&-",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "3,1,1": {
@@ -14877,8 +14991,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "---------&-",
+     "---------&-",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "3,1,2": {
@@ -14923,8 +15043,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "-----&-----",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "2,2,1": {
@@ -14933,8 +15058,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "---------&-",
+     "-----&-----",
+     "---------&-",
+     "--\\/-------"
+    ]
    }
   },
   "2,2,2": {
@@ -19343,8 +19473,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -19353,8 +19487,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "8,3,0": {
@@ -19363,8 +19500,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,1": {
@@ -19373,8 +19514,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,2": {
@@ -19383,8 +19528,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "8,1,0": {
@@ -19393,8 +19542,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,1": {
@@ -19403,8 +19556,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -19413,8 +19570,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "9,2,0": {
@@ -19423,8 +19583,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -19433,8 +19597,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -19443,8 +19611,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "7,2,0": {
@@ -19453,8 +19624,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,2,1": {
@@ -19463,8 +19638,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   }
  },
@@ -19475,8 +19654,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -19485,8 +19668,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "8,3,0": {
@@ -19495,8 +19681,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,1": {
@@ -19505,8 +19695,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,2": {
@@ -19515,8 +19709,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "8,1,0": {
@@ -19525,8 +19723,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,1": {
@@ -19535,8 +19737,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -19545,8 +19751,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "9,2,0": {
@@ -19555,8 +19764,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -19565,8 +19778,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -19575,8 +19792,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "7,2,0": {
@@ -19585,8 +19805,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,2,1": {
@@ -19595,8 +19819,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   }
  },
@@ -20583,8 +20811,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20596,8 +20823,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20609,8 +20835,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20634,8 +20859,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20647,8 +20871,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20660,9 +20883,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20674,9 +20895,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20688,8 +20907,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20701,8 +20919,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   }
@@ -20716,8 +20933,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20729,8 +20945,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20742,8 +20957,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20767,8 +20981,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20780,8 +20993,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20793,9 +21005,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20807,9 +21017,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20821,8 +21029,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -20834,8 +21041,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   }
@@ -20847,8 +21053,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -20857,8 +21066,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "8,2,0": {
@@ -20867,8 +21078,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,1": {
@@ -20877,8 +21091,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -20887,8 +21104,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "8,0,0": {
@@ -20897,8 +21116,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,0,1": {
@@ -20907,8 +21129,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,0": {
@@ -20917,8 +21142,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,1": {
@@ -20927,8 +21155,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -20947,8 +21178,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,1,1": {
@@ -20957,8 +21191,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,1,2": {
@@ -20967,8 +21204,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -20979,8 +21218,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,1,2": {
@@ -20989,8 +21231,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "8,2,0": {
@@ -20999,8 +21243,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,1": {
@@ -21009,8 +21256,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -21019,8 +21269,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "8,0,0": {
@@ -21029,8 +21281,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,0,1": {
@@ -21039,8 +21294,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,0": {
@@ -21049,8 +21307,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,1": {
@@ -21059,8 +21320,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -21079,8 +21343,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,1,1": {
@@ -21089,8 +21356,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "7,1,2": {
@@ -21099,8 +21369,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -22997,8 +23269,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23038,8 +23309,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23051,8 +23321,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23076,8 +23345,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23089,8 +23357,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23145,8 +23412,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23186,8 +23452,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23199,8 +23464,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23224,8 +23488,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -23237,8 +23500,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28762,8 +29024,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28775,8 +29036,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28788,8 +29048,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28923,8 +29182,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28936,8 +29194,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -28949,8 +29206,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -31868,8 +32124,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -31879,8 +32134,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,0": {
@@ -31889,8 +32146,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,1": {
@@ -31899,8 +32158,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,2": {
@@ -31909,8 +32170,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,2,0": {
@@ -31921,8 +32184,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -31934,8 +32196,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -31947,8 +32208,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -31960,8 +32220,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -31971,8 +32230,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "13,3,0": {
@@ -31983,9 +32244,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -31999,9 +32258,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -32017,8 +32274,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -32028,8 +32284,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,0": {
@@ -32038,8 +32296,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,1": {
@@ -32048,8 +32308,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,4,2": {
@@ -32058,8 +32320,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "14,2,0": {
@@ -32070,8 +32334,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -32083,8 +32346,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -32096,8 +32358,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -32109,8 +32370,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -32120,8 +32380,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "13,3,0": {
@@ -32132,9 +32394,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -32148,9 +32408,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -37892,8 +38150,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,2": {
@@ -37902,8 +38164,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "9,4,0": {
@@ -37912,8 +38177,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "9,4,1": {
@@ -37922,8 +38192,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "9,2,0": {
@@ -37932,8 +38207,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -37942,8 +38221,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -37952,8 +38235,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "10,3,0": {
@@ -37962,8 +38248,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,3,1": {
@@ -37972,8 +38262,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,3,2": {
@@ -37982,8 +38276,17 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "8,3,0": {
@@ -37992,8 +38295,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,1": {
@@ -38002,8 +38309,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,2": {
@@ -38012,8 +38323,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   }
  },
@@ -38024,8 +38339,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,2": {
@@ -38034,8 +38353,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "9,4,0": {
@@ -38044,8 +38366,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "9,4,1": {
@@ -38054,8 +38381,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--------\\/-",
+     "--------\\/-"
+    ]
    }
   },
   "9,2,0": {
@@ -38064,8 +38396,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,1": {
@@ -38074,8 +38410,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -38084,8 +38424,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "10,3,0": {
@@ -38094,8 +38437,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,3,1": {
@@ -38104,8 +38451,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,3,2": {
@@ -38114,8 +38465,17 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "8,3,0": {
@@ -38124,8 +38484,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,1": {
@@ -38134,8 +38498,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,3,2": {
@@ -38144,8 +38512,12 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   }
  },
@@ -39481,8 +39853,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -39659,8 +40030,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -40798,8 +41168,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -40808,8 +41181,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,3,0": {
@@ -40818,8 +41193,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,1": {
@@ -40828,8 +41206,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,2": {
@@ -40838,8 +41219,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,1,0": {
@@ -40848,8 +41231,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,1": {
@@ -40858,8 +41244,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -40878,8 +41267,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,2,1": {
@@ -40888,8 +41280,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,0": {
@@ -40898,8 +41293,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,1": {
@@ -40908,8 +41306,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -40918,8 +41319,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -40930,8 +41333,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,2,2": {
@@ -40940,8 +41346,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,3,0": {
@@ -40950,8 +41358,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,1": {
@@ -40960,8 +41371,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,3,2": {
@@ -40970,8 +41384,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   },
   "9,1,0": {
@@ -40980,8 +41396,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,1": {
@@ -40990,8 +41409,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "9,1,2": {
@@ -41010,8 +41432,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "10,2,1": {
@@ -41020,8 +41445,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,0": {
@@ -41030,8 +41458,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,1": {
@@ -41040,8 +41471,11 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------",
+     "--\\/-------"
+    ]
    }
   },
   "8,2,2": {
@@ -41050,8 +41484,10 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "-&---------"
+    ]
    }
   }
  },
@@ -46818,8 +47254,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -46831,8 +47266,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -46995,8 +47429,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -47008,8 +47441,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -51186,8 +51618,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -51201,8 +51632,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--------\\/-",
      "--------\\/-"
     ]
@@ -51216,8 +51646,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--\\/-------"
     ]
    }
@@ -51230,8 +51659,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--\\/-------"
     ]
    }
@@ -51244,8 +51672,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -51285,9 +51712,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -51299,8 +51724,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -51312,8 +51736,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -51325,8 +51748,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--\\/-------"
     ]
    }
@@ -51339,8 +51761,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "-&---------",
      "--\\/-------"
     ]
    }
@@ -52607,8 +53028,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -52620,8 +53040,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -52751,8 +53170,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -52764,8 +53182,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -53454,8 +53871,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -53467,8 +53883,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -53583,8 +53998,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -53596,8 +54010,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "-&---------"
     ]
    }
   },
@@ -61906,7 +62319,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----------"
+     "---------&-"
     ]
    }
   },
@@ -62059,7 +62472,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----------"
+     "---------&-"
     ]
    }
   },
@@ -62362,8 +62775,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "16,5,0": {
@@ -62372,8 +62791,19 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "16,5,1": {
@@ -62382,8 +62812,19 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "16,5,2": {
@@ -62392,8 +62833,18 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^"
+    ]
    }
   },
   "16,3,0": {
@@ -62430,8 +62881,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "17,4,1": {
@@ -62440,8 +62897,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "15,4,0": {
@@ -62450,8 +62913,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "15,4,1": {
@@ -62460,8 +62928,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   }
  },
@@ -62472,8 +62945,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "16,5,0": {
@@ -62482,8 +62961,19 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "16,5,1": {
@@ -62492,8 +62982,19 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^",
+     "^\\/XXXXX--^"
+    ]
    }
   },
   "16,5,2": {
@@ -62502,8 +63003,18 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------",
+     "^\\/XXXXX--^",
+     "^\\/-^^^---^",
+     "^/\\--^----^",
+     "^/\\-------^",
+     "^\\/-------^"
+    ]
    }
   },
   "16,3,0": {
@@ -62540,8 +63051,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "17,4,1": {
@@ -62550,8 +63067,14 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-----&-----",
+     "-&---------"
+    ]
    }
   },
   "15,4,0": {
@@ -62560,8 +63083,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   },
   "15,4,1": {
@@ -62570,8 +63098,13 @@
     "link": []
    },
    "tree search": {
-    "percent_playable": -1,
-    "link": []
+    "percent_playable": 1.0,
+    "link": [
+     "^-\\/------^",
+     "^-/\\---XXX^",
+     "^-/\\------^",
+     "-&---------"
+    ]
    }
   }
  },
@@ -65764,8 +66297,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   },
@@ -65837,8 +66369,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----"
+     "---------&-"
     ]
    }
   }
@@ -74442,8 +74973,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
@@ -74461,8 +74991,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
@@ -74480,8 +75009,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
@@ -74519,8 +75047,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
@@ -74538,8 +75065,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
@@ -74557,8 +75083,7 @@
    "tree search": {
     "percent_playable": 1.0,
     "link": [
-     "-----&-----",
-     "-----&-----",
+     "---------&-",
      "^\\/XXXXX--^",
      "^\\/-^^^---^",
      "^/\\--^----^",
