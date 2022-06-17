@@ -3,8 +3,8 @@
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX
 ---------#XXXX-
------XX---XXXX-
------XX----*---
+----XXX---XXXX-
+----XXX----*---
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX
 --XXXXXXXXXXXXX

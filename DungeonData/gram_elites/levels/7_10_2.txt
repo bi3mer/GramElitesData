@@ -2,7 +2,7 @@
 -------XXXXXXXX
 -------XXXXXXXX
 XXX----XXXXXXXX
-X*X------#XXXX-
+X*X------#XXXXX
 X&--------XXXX-
 X*X--------*---
 XXX----XXXXXXXX

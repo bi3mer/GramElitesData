@@ -2,9 +2,9 @@
 ------XXXXXXXXX
 ------XXXXXXXXX
 ------XXXXXXXXX
-------XXX------
----#--XXX--&---
---------------#
+------XX-----#X
+---#--XX--&---X
+---------------
 /\\---XXXXXXXXX
 \//---XXXXXXXXX
 ------XXXXXXXXX

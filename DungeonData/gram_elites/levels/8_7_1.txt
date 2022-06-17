@@ -1,5 +1,5 @@
 XXXXXX--^^^^^^^
-#XXXXX-----X--X
+-XXXXX-----X--X
 -XXXXX-----X--X
 -XXXXX-----X--X
 -----------X--X
@@ -7,5 +7,5 @@ XXXXXX--^^^^^^^
 -----------X--X
 -XXXXX-----X--X
 -XXXXX-----X--X
--XXXXX---------
+#XXXXX---------
 XXXXXX--^^^^^^^
